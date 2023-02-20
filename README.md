@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aniketa17973799" target="blank"><img src="https://img.shields.io/twitter/follow/aniketa17973799?logo=twitter&style=for-the-badge" alt="aniketa17973799" /></a> </p>
 
-- 🌱 I’m currently learning **TERRAFORM,PYTHON**
+- 🌱 I’m currently learning **AWS,PYTHON**
 
 - 📫 How to reach me **aniketagarwalbharatpur@gmail.com**
 
