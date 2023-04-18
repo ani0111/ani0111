@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS,PYTHON**
 
-- 📫 How to reach me **aniketagarwalbharatpur@gmail.com**
+- 📫 How to reach me on mail **aniketagarwalbharatpur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
